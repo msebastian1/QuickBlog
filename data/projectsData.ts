@@ -1,19 +1,16 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Beange',
+    description: `This is a Coffee Exploration project in which my & my old friend Carlo invite people to join our mindful coffee exploration coffee adventure`,
+    imgSrc: '/images/beange.png',
+    href: 'https://beange.coffee/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'The Mindful Youth Success',
+    description:
+      'After my pursuit in finding different way to learn easier, move, study & build a life abroad & carve a path that is yours beyond projections of others I put some of my steps that I have taken during college to overcome what others thought I should be doing.',
+    imgSrc: '/images/success.png',
+    href: 'https://mindfulyouthmentoring.com/',
   },
 ]
 
